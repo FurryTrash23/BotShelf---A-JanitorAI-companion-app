@@ -1,1 +1,6 @@
-ii
+BotShelf is a single-file app for keeping track of your JanitorAI characters. 
+
+Store each bot’s personality, scenario, first message, notes, and a cover image, sort them with your own tags, and move them through Ideas, Drafts, and Live on a planning board. 
+Everything is saved locally in your browser or on your phone, with JSON backup and restore.
+
+It is an unofficial tool and is not affiliated with JanitorAI.
